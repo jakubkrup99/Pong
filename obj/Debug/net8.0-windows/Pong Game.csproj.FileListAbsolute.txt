@@ -1,0 +1,17 @@
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\bin\Debug\net8.0-windows\Pong Game.exe
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\bin\Debug\net8.0-windows\Pong Game.deps.json
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\bin\Debug\net8.0-windows\Pong Game.runtimeconfig.json
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\bin\Debug\net8.0-windows\Pong Game.dll
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\bin\Debug\net8.0-windows\Pong Game.pdb
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong_Game.Form1.resources
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.csproj.GenerateResource.cache
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.sourcelink.json
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.dll
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\refint\Pong Game.dll
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.pdb
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\Pong Game.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Desktop\kg\zad-4-kulki-i-przeszkody-jakubkrup99\obj\Debug\net8.0-windows\ref\Pong Game.dll
